@@ -1214,7 +1214,7 @@ Version:1.0
 }
 .hero-slider .single-slider {
 	height: auto;
-	background-image: url('https://via.placeholder.com/1900x700');
+	background-image: url('./images/young-male-holding-hands-pockets-white-shirt-pants-looking-elegant.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1243,7 +1243,7 @@ Version:1.0
 	line-height: initial;
 }
 .hero-slider .hero-text p {
-	color: #333;
+	color: black;
 	margin-bottom: 35px;
 }
 .hero-slider .hero-text .button{
