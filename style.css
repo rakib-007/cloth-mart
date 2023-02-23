@@ -4981,6 +4981,9 @@ Version:1.0
 	color:#fff;
 	text-decoration:underline;
 }
+.all-category-1{
+	display: none;
+}
 /*=============================
 	End Footer CSS
 ===============================*/
@@ -4988,5 +4991,11 @@ Version:1.0
 @media screen and (max-width : 576px){
 	.topbar{
 		display: none;
+	}
+	.header.shop .all-category {
+		color: #fff;
+		background: transparent;
+		position: relative;
+		visibility: visible;
 	}
 }
